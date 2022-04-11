@@ -26,3 +26,8 @@ Original code provided by Prechin, the creators of this development kit, used Ke
 3. Light Water: "Progress bar"-like effect on the 8 pins of the Port0.
 4. Marquee: Shifts a fixed pattern from right to left.
 5. Marquee2: Same as `Marquee` but using a different code approach.
+## 2 - Buttons
+1. 8 keys controlling 8 LEDs: Each button will turn on a single LED.
+2. Button select LED pattern: Each button will trigger a different "LED pattern".
+3. LED display keys: The binary number read from the port used for the buttons will be written on the LEDs port.
+4. Move LED Lights left or right: Move a single LED left or right using K1 and K2.
